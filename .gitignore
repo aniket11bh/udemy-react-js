@@ -1,0 +1,12 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/base-syntax--assignment-problem/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+base-syntax--assignment-problem/package-lock.json
